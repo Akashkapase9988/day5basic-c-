@@ -6,6 +6,7 @@ namespace day5
 {
    public class uc9vowelconconant
     {
+        //
         public static void vowelconconat() {
             
                 char ch;
