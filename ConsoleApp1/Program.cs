@@ -19,7 +19,7 @@ namespace day5
             //swap.numswap();
             //oddeven.numoddeven();
             //uc9vowelconconant.vowelconconat();
-            //uc10greter.greter();
+            uc10greter.greter();
         }
 
       
