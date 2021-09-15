@@ -6,6 +6,7 @@ namespace day5
 {
     public class nharmonic
     {
+        //
         public static double NthHarmonic(int N)
         {
             // H1 = 1
