@@ -6,6 +6,7 @@ namespace day5
 {
     public class uc10greter
     {
+        //
         public static void greter()
         {
             int num1, num2, num3;
