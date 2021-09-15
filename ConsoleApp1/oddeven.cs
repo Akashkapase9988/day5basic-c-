@@ -6,6 +6,7 @@ namespace day5
 {
     public class oddeven
     {
+        //
         public static void numoddeven()
         {
             int i;
