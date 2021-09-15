@@ -5,6 +5,7 @@ using System.Text;
 namespace day5
 {
     class uc6reminderquotient
+        //
 
     {
         public static void reminderquetiont() {
