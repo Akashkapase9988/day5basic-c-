@@ -6,7 +6,7 @@ namespace day5
 {
     public class factor
     {
-        
+        //
         public static void primeFactors(int n)
         {
             
