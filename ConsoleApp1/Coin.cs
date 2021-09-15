@@ -38,5 +38,6 @@ namespace day5
             float ptell = (tell / count) * 100;
             Console.WriteLine("percentage of head and tell is respectively : " + phead + "  " + ptell);            
         }
+        //
     }
 }
